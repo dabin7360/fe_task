@@ -1,0 +1,11 @@
+@import "_base";
+body{
+	background: #dedede;
+}
+.main{
+	width:100%;
+	div{
+		background: red;
+		@include transform(rotate(45deg))
+	}
+}

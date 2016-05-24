@@ -1,0 +1,31 @@
+{
+  "name": "fe_task",
+  "version": "1.0.0",
+  "description": "fe",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "success"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabin7360/fe_task.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "dabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabin7360/fe_task/issues"
+  },
+  "homepage": "https://github.com/dabin7360/fe_task#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "imagemin-pngquant": "^4.2.2",
+    "node-bourbon": "^4.2.8"
+  }
+}
